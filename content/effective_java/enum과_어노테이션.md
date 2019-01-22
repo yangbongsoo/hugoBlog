@@ -1,4 +1,8 @@
-# enum과 어노테이션
++++
+title = "enum과 어노테이션"
+weight = 5
++++
+
 ### 규칙34 : int 상수 대신 enum을 사용하라
 ```java
 // int를 사용한 enum 패턴
@@ -288,7 +292,7 @@ public enum Phase{
 	}
 }
 ```
-![](/assets/EnumMapexample.jpg)
+![](/EnumMapexample.jpg)
 
 LIQUID쪽을 보면 액체 LIQUID에서 고체 SOLID로 변하는 것은 언다FREEZE라고 한다. 이 맵의 자료형은 `Map<Phase, Map<Phase, Transition>>`인데, “상전이 이전 상태를, 상전이 이후 상태와 상전이 명칭 사이의 관계를 나타내는 맵에 대응시키는 맵”이라는 뜻이다. 
 

@@ -1,6 +1,5 @@
 +++
 title = "Dev Blog"
-description = "index"
 +++
 
 ## Dev Blog
