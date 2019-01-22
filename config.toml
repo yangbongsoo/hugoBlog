@@ -1,7 +1,7 @@
 baseURL = "/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+languageCode = "ko-kr"
+DefaultContentLanguage = "ko"
+title = "Dev Blog"
 theme = "docdock"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -9,6 +9,8 @@ pygmentsStyle = "monokailight"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
+[params]
+showVisitedLinks = true # default is false
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
