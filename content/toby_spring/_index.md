@@ -1,8 +1,8 @@
 +++
-title = "Spring 개발 이슈모음"
+title = "토비 스프링"
 alwaysopen = true
 pre ="<i class='fa fa-envira' ></i> "
-weight = 6
+weight = 7
 +++
 
-## Spring Issue
+## 토비 스프링
