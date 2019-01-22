@@ -1,0 +1,18 @@
+baseURL = "/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "DocDock Documentation"
+theme = "docdock"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[[menu.shortcuts]]
+pre = "<h3>More</h3>"
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+identifier = "ds"
+url = "https://github.com/yangbongsoo"
+weight = 10
