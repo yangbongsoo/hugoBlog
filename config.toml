@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "ko-kr"
 DefaultContentLanguage = "ko"
-title = "Dev Blog"
+title = "양봉수 블로그"
 theme = "docdock"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"

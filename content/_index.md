@@ -1,6 +1,6 @@
 +++
-title = "Dev Blog"
+title = "양봉수 개발 블로그"
 +++
 
-## Dev Blog
+## Blog
 Email : goodbs1000@gmail.com
